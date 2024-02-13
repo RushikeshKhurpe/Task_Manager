@@ -1,11 +1,3 @@
-# Todo App - Full Stack - PWA - React Spring Boot
-
-##### [Click here](https://drive.google.com/file/d/1aUtitzqu06ibs0KCbH_zC9fJhmOFHEN4/view?usp=sharing) to view the application.
-
-
-This application is subject to Copyright. 
-
-
 ### Set up
 
 Install NodeJs.
